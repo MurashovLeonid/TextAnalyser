@@ -93,7 +93,7 @@ namespace StringAnalyserProgram
             string textPath = @"C:\TestForText\test.txt";
 
             // EXAMPLE STRING
-            string text = "1111112341241241251sdfsdfsdfsdfffffq1234121qqqqq";
+            string text = "132o874hy2poiugfnjdpgouydf0897haspdoiufhhhh-08u-0q2834uj[p231o[poooooppqpeqpweppe1pp123";
 
             // WHRITING STRING IN FILE
             TextWriter tw = new TextWriter(textPath, text);
