@@ -93,7 +93,7 @@ namespace StringAnalyserProgram
             string textPath = @"C:\TestForText\test.txt";
 
             // EXAMPLE STRING
-            string text = "(Q@*#$(!Q_I@J_OIGM_P(UDGH)(UGN)IGUnsodighjnsdigojnsdgijngggg-9023j-40i32j[ii9444[opmopoooodsfsdfwq23-9offff44444фффффaaaaaa5677";
+            string text = "1111112341241241251sdfsdfsdfsdfffffq1234121qqqqq";
 
             // WHRITING STRING IN FILE
             TextWriter tw = new TextWriter(textPath, text);
